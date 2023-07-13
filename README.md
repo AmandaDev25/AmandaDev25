@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmandaDev25
+- 👋 Hi, I’m Amanda Luiza
 - 👀 I’m interested in Sofrware & Web development
 - 👩🏾‍🎓 I’m currently learning Java Script, React, CSS, HTML5, NodeJS and Git & GitHub
 - 👔 I’m looking to collaborate on Freelance, Intership, Trainee and Junior
