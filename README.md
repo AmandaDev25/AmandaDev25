@@ -1,6 +1,6 @@
 ###### 👋 Hi, I’m Amanda Luiza
 ###### 👀 I’m interested in Software & Web development
-###### 👩🏾‍🎓 I’m currently learning Java Script, React, CSS, HTML5, NodeJS and Git & GitHub
+###### 👩🏾‍🎓 I’m currently learning Java Script, Typescript, React, CSS, HTML5, NodeJS and Git GitLab & GitHub
 ###### 💻🖥️ I’m looking to collaborate on Freelance , Intership, Trainee and Junior development
 
 <!---
