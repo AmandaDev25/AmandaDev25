@@ -5,7 +5,7 @@
 ###### 💻🖥️❤ I’m looking to collaborate on Freelance , Intership, Trainee and Junior development
 
 #### **Languages & Tools:**
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,styledcomponents,photoshop,js,ts,react,angular,vite,next,nodejs,npm,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=25)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,styledcomponents,photoshop,js,ts,react,angular,vite,next,nodejs,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=23)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
