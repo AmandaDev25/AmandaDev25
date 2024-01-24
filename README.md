@@ -7,10 +7,10 @@
 #### **Languages & Tools:**
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,styledcomponents,photoshop,js,ts,react,angular,vite,next,nodejs,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=21)](#)
 
-  <img src="https://cdn.dribbble.com/users/6810579/screenshots/15149818/koala.png"/>
+ 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width:'10px' />
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width:'10%' />
 
 <!---
 AmandaDev25/AmandaDev25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
