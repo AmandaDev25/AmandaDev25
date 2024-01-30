@@ -7,7 +7,7 @@
 #### **Languages & Tools:**
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,ts,react,vite,nodejs,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=21)](#)
 
- 
+<img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width:'10%' />
