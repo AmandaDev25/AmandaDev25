@@ -10,7 +10,7 @@
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=100&section=footer" width:'10%' />
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=100&section=footer" width:'10%' />
 
 <!---
 AmandaDev25/AmandaDev25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
