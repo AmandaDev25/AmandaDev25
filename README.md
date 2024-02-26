@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20B2AA&width=435&lines=I'm+a+Front-End+developer+👩🏽‍💻)
 ###### 👀 I’m interested in  Web development
 ###### 👩🏾‍🎓 I’m currently learning Java Script, Typescript, React, CSS, SCSS, MUI, HTML5, NodeJS and Git GitLab & GitHub
-###### 🖥️ I’m looking to collaborate on Freelance , Intership, Trainee and Junior development
+###### 💡 I’m looking to collaborate on Freelance , Intership, Trainee and Junior development
 
 ## ✨ Main Skills ###
 
@@ -13,7 +13,7 @@
 ## 💻 **Languages & Tools:**
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,ts,react,vite,nodejs,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=21)](#)
 
-## 🌟 My favorite tools and technologies
+## 🌟 My favorite tools & technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
