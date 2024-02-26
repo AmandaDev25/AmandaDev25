@@ -13,7 +13,7 @@
 ## 💻 **Languages & Tools:**
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,ts,react,vite,nodejs,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=21)](#)
 
-### 🌟 My favorite tools and technologies
+## 🌟 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
