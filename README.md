@@ -4,8 +4,12 @@
 ###### 👩🏾‍🎓 I’m currently learning Java Script, Typescript, React, CSS, SCSS, MUI, HTML5, NodeJS and Git GitLab & GitHub
 ###### 🖥️ I’m looking to collaborate on Freelance , Intership, Trainee and Junior development
 
-#### **Languages & Tools:**
+
+
+#### 💻 **Languages & Tools:**
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,ts,react,vite,nodejs,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=21)](#)
+
+
 
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
 
