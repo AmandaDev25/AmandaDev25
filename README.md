@@ -120,14 +120,6 @@
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
-<!--               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td> -->
  </tr>
 </table>
 <br><br>
@@ -135,7 +127,11 @@
 
 
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
+<br/>  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=AmandaDev25&&style=flat-square)    
+
+<br/>  
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=100&section=footer" width:'10%' />
 
