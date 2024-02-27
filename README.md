@@ -4,6 +4,8 @@
 ###### 👩🏾‍🎓 I’m currently learning Java Script, Typescript, React, CSS, SCSS, MUI, HTML5, NodeJS and Git GitLab & GitHub
 ###### 💡 I’m looking to collaborate on Web development
 
+
+#### 👁️ Profile views
 ![Profile views counter](https://komarev.com/ghpvc/?username=AmandaDev25)    
 
 ### ✨ Main Skills: ###
