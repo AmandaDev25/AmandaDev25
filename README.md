@@ -5,7 +5,7 @@
 ###### 💡 I’m looking to collaborate on Web development
 
 
-#### 👁️ Profile views
+##### 👁️ Profile views
 ![Profile views counter](https://komarev.com/ghpvc/?username=AmandaDev25)    
 
 ### ✨ Main Skills: ###
