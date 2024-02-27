@@ -4,6 +4,8 @@
 ###### 👩🏾‍🎓 I’m currently learning Java Script, Typescript, React, CSS, SCSS, MUI, HTML5, NodeJS and Git GitLab & GitHub
 ###### 💡 I’m looking to collaborate on Freelance , Intership, Trainee and Junior development
 
+![Profile views counter](https://komarev.com/ghpvc/?username=AmandaDev25)    
+
 ## ✨ Main Skills ###
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
@@ -129,7 +131,7 @@
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=AmandaDev25&&style=flat-square)    
+
 
 <br/>  
 <p align="center">
