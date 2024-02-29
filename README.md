@@ -135,7 +135,8 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🌎 **Site:**
-https://controledetarefas.netlify.app/
+![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/dd5aac57-7dc4-4620-a2dd-c4ade655e720)
+
 
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
 <br/>  
