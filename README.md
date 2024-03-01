@@ -135,7 +135,8 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🌎 **Site:**
-![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/dd5aac57-7dc4-4620-a2dd-c4ade655e720)
+![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/81c7e988-d1d9-440a-8361-d1fddb6efc25)
+
 
 
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
