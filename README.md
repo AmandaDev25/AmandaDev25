@@ -139,10 +139,6 @@
 ![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/81c7e988-d1d9-440a-8361-d1fddb6efc25)
 
 
-##### System
-![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/1da22f4c-1dde-448c-9a84-c35b40d83f30)
-
-
 ##### Web
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
 <br/>  
