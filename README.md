@@ -133,15 +133,11 @@
 ![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/81c7e988-d1d9-440a-8361-d1fddb6efc25)
 
 
-##### Web Developer Image
-<img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
-<br/>  
-
 
 
 <br/>  
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=100&section=footer" width:'10%' />
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width:'10%' />
 
 <!---
 AmandaDev25/AmandaDev25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
