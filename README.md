@@ -133,7 +133,7 @@
 ![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/81c7e988-d1d9-440a-8361-d1fddb6efc25)
 
 
-##### Web
+##### Web Developer Image
 <img src="https://wallpapercave.com/wp/wp9641821.jpg" /> 
 <br/>  
 
