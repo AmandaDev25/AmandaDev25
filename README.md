@@ -15,12 +15,6 @@
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 
 
-### 💻 **Work tools:**
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,mui,js,ts,react,vite,nodejs,git,github,linkedin,gitlab,vscode,jest,postman,stackoverflow&perline=21)](#)
-
-
-
 ### 🌟 My favorite Technologies:
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div style="display: flex; align-items: flex-start; align: center">
