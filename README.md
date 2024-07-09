@@ -128,12 +128,6 @@
   
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### 🌎 **Site:**
-##### Task Control
-![image](https://github.com/AmandaDev25/AmandaDev25/assets/138495890/81c7e988-d1d9-440a-8361-d1fddb6efc25)
-
-
-
 
 <br/>  
 <p align="center">
