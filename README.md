@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA70D6&width=435&lines=+Hi+👋🏽,+My+name+is+Amanda+Luiza+🥰)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB7093&width=435&lines=I'm+a+Front-End+developer+👩🏽‍💻)
 ###### 👀 I am interested in the area of ​​software development, mainly front-end
-###### 👩🏾‍🎓 I’m currently learning JavaScript, TypeScript, React, CSS, SCSS, MUI, HTML5, NodeJS, Git BitBucket GitLab & GitHub
+###### 👩🏾‍🎓 I’m currently learning JavaScript, TypeScript, React, CSS, Bootstrap, MUI, HTML5, NodeJS, Git BitBucket GitLab & GitHub
 ###### 💡 I’m looking to collaborate on Web development
 
 
