@@ -9,7 +9,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=AmandaDev25&color=FF00FF)    
 
 ### ✨ Main Skills: ###
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
