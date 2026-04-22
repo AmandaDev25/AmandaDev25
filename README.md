@@ -13,7 +13,7 @@
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 
-###  Work that contributes: 
+### 👥 Work that contributes: 
   https://www.calhasfranco.com.br/
   <br />
   https://meumenudigital.netlify.app/clientes
